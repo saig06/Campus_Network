@@ -281,6 +281,8 @@ Hostel Router :
 
 ![](Images/Picture20.png)
 
+![](Images/M2.png)
+
 GigabitEthernet0/0 :
 
 ![](Images/Picture21.png)
@@ -386,66 +388,26 @@ Ping Test: Network connectivity and communication can be tested using the ping c
 
 Ping Test for EMAIL server
 
-![](Images/Picture30.png)
+![](Images/Picture33.png)
 
 Ping Test for DNS server
 
-![](Images/Picture32.png)
+![](Images/Picture34.png)
 
 Ping Test for WEB server
 
-![](Images/Picture33.png)
+![](Images/Picture35.png)
 
 Website accessed through Web Browser in Packet Tracer :
 
-![](Images/Picture34.png)
+![](Images/Picture36.png)
 
 Email received on device sent through EMAIL server :
 
-![](Images/Picture35.png)
+![](Images/Picture37.png)
 
 
 
 
 
 THANK YOU!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
